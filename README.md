@@ -54,4 +54,4 @@
 
 ## Clone o repositório:
    ```sh
-   git clone https://github.com/usuario/blogify.git
+   git clone https://github.com/vsslvini/blogify.git
